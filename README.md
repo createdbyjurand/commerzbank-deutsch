@@ -1,5 +1,7 @@
 # COMMERZBANK Deutsch
 
+[Link](https://github.com/createdbyjurand/commerzbank-deutsch)
+
 ## 2021/09/06
 
 ### `SCHUBERT` / `Sprachniveau A1` / `Online-Übungen` / `Kapitel 1`
@@ -105,6 +107,11 @@ Ergänzen Sie die fehlenden Endungen. | Uzupełnij brakujące zakończenia.
 | auf Deutsch                                                         | auf Polnisch                                                |
 | ------------------------------------------------------------------- | ----------------------------------------------------------- |
 | Alexis und Yanis kommen aus Griechenland. Sie spielen gern Fußball. | Alexis i Yanis pochodzą z Grecji. Lubią grać w piłkę nożną. |
+| Viktor wohnt in Stockholm. Er fotografiert gern.                    | Wiktor mieszka w Sztokholmie. Lubi robić zdjęcia.           |
+| Tiago spricht Portugiesisch und Spanisch. Er kocht gern.            | Tiago mówi po portugalsku i hiszpańsku. On lubi gotować.    |
+| Laura und Anna wohnen in Bern. Sie schwimmen gern.                  | Laura i Anna mieszkają w Bernie. Lubią pływać.              |
+| Lili, Fanni und Levente sprechen Ungarisch. Sie tanzen gern.        | Lili, Fanni i Levente mówią po węgiersku. Lubią tańczyć.    |
+| Martina kommt aus der Schweiz. Sie lernt gern Sprachen.             | Martina pochodzi ze Szwajcarii. Lubi uczyć się języków.     |
 
 #### Länder und Sprachen | kraje i języki
 
@@ -153,7 +160,7 @@ Ergänzen Sie die Sprache oder das Land. | Uzupełnij język lub kraj.
 - [Google Translate DE-PL](https://translate.google.pl/?sl=de&tl=pl&op=translate)
 - [Conjugueur](https://conjugueur.reverso.net/conjugaison-allemand.html)
 
-#### Odmiana czasownika być – sein
+#### sein | być
 
 | auf Deutsch     | auf Polnisch    |
 | --------------- | --------------- |
@@ -164,7 +171,7 @@ Ergänzen Sie die Sprache oder das Land. | Uzupełnij język lub kraj.
 | ihr – seid      | wy jesteście    |
 | sie/Sie – sind  | oni są          |
 
-#### Odmiana czasownika mieć – haben
+#### haben | mieć
 
 | auf Deutsch     | auf Polnisch  |
 | --------------- | ------------- |
@@ -175,6 +182,8 @@ Ergänzen Sie die Sprache oder das Land. | Uzupełnij język lub kraj.
 | ihr – habt      | wy macie      |
 | sie/Sie – haben | oni mają      |
 
+#### heißen | nazywać się
+
 | auf Deutsch     | auf Polnisch          |
 | --------------- | --------------------- |
 | ich heiße       | ja nazywam się        |
@@ -184,11 +193,15 @@ Ergänzen Sie die Sprache oder das Land. | Uzupełnij język lub kraj.
 | ihr heißt       | wy nazywacie się      |
 | Sie heißen      | oni nazywają się      |
 
+#### wo/woher/wohin | gdzie
+
 | auf Deutsch | auf Polnisch  |
 | ----------- | ------------- |
 | Wo?         | Gdzie?        |
 | Woher?      | Gdzie (skąd)? |
 | Wohin?      | Gdzie (do)?   |
+
+#### wohnen | żyć/mieszkać
 
 | auf Deutsch     | auf Polnisch    |
 | --------------- | --------------- |
@@ -198,6 +211,8 @@ Ergänzen Sie die Sprache oder das Land. | Uzupełnij język lub kraj.
 | wir wohnen      | my żyjemy       |
 | ihr wohnt       | wy żyjecie      |
 | Sie wohnen      | oni żyją        |
+
+#### kommen | idę
 
 | auf Deutsch     | auf Polnisch          | auf Deutsch         | auf Polnisch          |
 | --------------- | --------------------- | ------------------- | --------------------- |
