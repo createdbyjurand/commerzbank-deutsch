@@ -46,23 +46,74 @@ Ordnen Sie die richtigen Lösungen zu. | Dopasuj właściwe rozwiązania.
 
 Ergänzen Sie die Fragen. | Uzupełnij pytania.
 
+[Link](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sichvorstellen2.htm)
+
 ##### Herr Müller | pan Müller
 
-| auf Deutsch                           | auf Polnisch                              |
-| ------------------------------------- | ----------------------------------------- |
-| Wie heißen Sie? Ich heiße Max Müller. | Jak masz na imię? Nazywam się Max Müller. |
+| auf Deutsch                                                         | auf Polnisch                                                  |
+| ------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Wie heißen Sie? **Ich heiße Max Müller.**                           | Jak masz na imię? **Nazywam się Max Müller.**                 |
+| Woher kommen Sie? **Ich komme aus Österreich.**                     | Skąd jesteś? **Jestem z Austrii.**                            |
+| Wo wohnen Sie? **Ich wohne in Wien.**                               | Gdzie mieszkasz? **Mieszkam w Wiedniu.**                      |
+| Welche Sprachen sprechen Sie? **Ich spreche Deutsch und Englisch.** | W jakich językach mówisz? **Mówię po niemiecku i angielsku.** |
+| Spielen Sie gern Fußball? **Ja, ich spiele gern Fußball.**          | Lubisz grać w piłkę nożną? **Tak, lubię grać w piłkę nożną.** |
+| Tanzen Sie gern? **Nein, ich tanze nicht gern.**                    | Czy lubisz tańczyć? **Nie, nie lubię tańczyć.**               |
+| Kochst du gern? **Ja, ich koche gern.**                             | Czy lubisz gotować? **Tak, lubię gotować.**                   |
+
+##### Maria | Maria
+
+| auf Deutsch                                                               | auf Polnisch                                               |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Wie heißt du? **Ich heiße Maria.**                                        | Jak masz na imię? **Nazywam się Maria.**                   |
+| Woher kommst du? **Ich komme aus Italien.**                               | Skąd pochodzisz? **Jestem z Włoch.**                       |
+| Wo wohnst du? **Ich wohne in Rom.**                                       | Gdzie mieszkasz? **Mieszkam w Rzymie.**                    |
+| Welche Sprachen sprichst du? **Ich spreche Italienisch und Französisch.** | W jakich językach mówisz? **Mówię po włosku i francusku.** |
+
+##### Sarah und Marc | Sarah i Marc
+
+| auf Deutsch                                                             | auf Polnisch                                                            |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Woher kommt ihr? **Wir kommen aus Frankreich.**                         | Skąd jesteście? **Pochodzimy z Francji.**                               |
+| Wo wohnt ihr? **Wir wohnen in Paris.**                                  | Gdzie mieszkacie? **Mieszkamy w Paryżu.**                               |
+| Welche Sprachen sprecht ihr? **Wir sprechen Französisch und Englisch.** | W jakich językach mówicie? **Mówimy po francusku i angielsku.**         |
+| Lernt ihr jetzt Deutsch? **Ja, wir lernen jetzt Deutsch.**              | Uczycie się teraz niemieckiego? **Tak, teraz uczymy się niemieckiego.** |
+| Tanzt ihr gern? **Ja, wir tanzen gern.**                                | Czy lubicie tańczyć? **Tak, lubimy tańczyć.**                           |
 
 #### Sich vorstellen [3] | Przedstaw się
 
 Wählen Sie jeweils eine passende Ergänzung. | W każdym przypadku wybierz odpowiedni dodatek.
 
+[Link](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sichvorstellen3.htm)
+
+| auf Deutsch                   | auf Polnisch                    |
+| ----------------------------- | ------------------------------- |
+| Das ist Steffi.               | To jest Steffi.                 |
+| Steffi kommt aus Deutschland. | Steffi pochodzi z Niemiec.      |
+| Sie wohnt in München.         | Ona mieszka w Monachium.        |
+| Steffi spricht Deutsch.       | Steffi mówi po niemiecku.       |
+| Sie lernt jetzt Russisch.     | Ona uczy się teraz rosyjskiego. |
+| Sie spielt gern Tennis.       | Ona lubi grać w tenisa.         |
+| Sie macht Gymnastik.          | Ona uprawia gimnastykę.         |
+| Sie hort gern Musik.          | Ona lubi słuchać muzyki.        |
+
 #### Personen: Wer macht was? | Ludzie: Kto co robi?
 
 Ergänzen Sie die fehlenden Endungen. | Uzupełnij brakujące zakończenia.
 
+[Link](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_konjugation.htm)
+
+| auf Deutsch                                                         | auf Polnisch                                                |
+| ------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Alexis und Yanis kommen aus Griechenland. Sie spielen gern Fußball. | Alexis i Yanis pochodzą z Grecji. Lubią grać w piłkę nożną. |
+
 #### Länder und Sprachen | kraje i języki
 
 Ergänzen Sie die Sprache oder das Land. | Uzupełnij język lub kraj.
+
+[Link](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sprachen.htm)
+
+| auf Deutsch | auf Polnisch |
+| ----------- | ------------ |
 
 ### Notatki z czatu
 
@@ -95,6 +146,12 @@ Ergänzen Sie die Sprache oder das Land. | Uzupełnij język lub kraj.
 - Griechenland
 
 ### Moje notatki
+
+#### Linki
+
+- [Google Translate PL-DE](https://translate.google.pl/?sl=pl&tl=de&op=translate)
+- [Google Translate DE-PL](https://translate.google.pl/?sl=de&tl=pl&op=translate)
+- [Conjugueur](https://conjugueur.reverso.net/conjugaison-allemand.html)
 
 #### Odmiana czasownika być – sein
 
