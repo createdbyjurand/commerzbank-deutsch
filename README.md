@@ -1,12 +1,12 @@
-# COMMERZBANK Deutsch
+# COMMERZBANK Deutsch von Jurand
 
 ## Inhaltsverzeichnis | Spis treści
 
-- [Lektion 01: Montag (2021-09-06)](2021-09-06_Lektion.md)
+- [Lektion 01: Montag, 2021-09-06](2021-09-06_Lektion.md)
 - [Lektion 01: Hausaufgaben](2021-09-06_Hausaufgaben.md)
-- [Lektion 02: Mittwoch (2021-09-08)](2021-09-08_Lektion.md)
+- [Lektion 02: Mittwoch, 2021-09-08](2021-09-08_Lektion.md)
 - [Lektion 02: Hausaufgaben](2021-09-08_Hausaufgaben.md)
-- [Lektion 03: Montag (2021-09-13)](2021-09-13_Lektion.md)
+- [Lektion 03: Montag, 2021-09-13](2021-09-13_Lektion.md)
 - [Lektion 03: Hausaufgaben](2021-09-13_Hausaufgaben.md)
 
 ### Konjugation regelmäßiger Verben | Odmiana czasowników regularnych
@@ -24,6 +24,7 @@
 
 #### Reguläre Verben | Czasowniki regularne
 
-- [haben](verben/haben.md)
-- [heißen](verben/heißen.md)
-- [sein](verben/sein.md)
+- [haben](verben/haben.md) | mieć
+- [heißen](verben/heißen.md) | nazywać się
+- [mögen](verben/mögen.md) | lubić
+- [sein](verben/sein.md) | być

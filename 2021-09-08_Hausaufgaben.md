@@ -2,12 +2,14 @@
 
 [zurück zum Inhaltsverzeichnis](README.md)
 
-## Aufgaben | Zadania
+## Hausaufgaben
+
+### Aufgaben | Zadania
 
 - [https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_kap1_hoeren2.htm](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_kap1_hoeren2.htm)
 - Przedstawić się. Powiedzieć jak najwięcej o sobie.
 
-### Aufgabe 1 | Zadanie 1
+#### Aufgabe 1 | Zadanie 1
 
 [https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_kap1_hoeren2.htm](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_kap1_hoeren2.htm)
 
@@ -27,7 +29,7 @@
 | achtundsiebzig | 78     |
 | vierundneunzig | 94     |
 
-### Aufgabe 2 | Zadanie 2
+#### Aufgabe 2 | Zadanie 2
 
 | auf Deutsch                                          | auf Polnisch                                |
 | ---------------------------------------------------- | ------------------------------------------- |
