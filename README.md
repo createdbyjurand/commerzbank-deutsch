@@ -49,10 +49,12 @@
 
 - [haben](verben/haben.md) | mieć
 - [heißen](verben/heißen.md) | nazywać się/mieć na imię
+- [kommen](verben/kommen.md) | iść/pochodzić z/być z
+- [mögen](verben/mögen.md) | lubić
 - [mögen](verben/mögen.md) | lubić
 - [sein](verben/sein.md) | być
+- [wohnen](verben/wohnen.md) | mieszkać/żyć
 - hören
-- kommen
 - lernen
 - lesen
 - sammeln
@@ -60,7 +62,6 @@
 - singen
 - spielen
 - studieren
-- wohnen
 
 ## Fragepronomen/Interrogativpronomen | Zaimki pytające
 
