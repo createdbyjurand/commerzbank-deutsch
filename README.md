@@ -19,13 +19,27 @@
   - Online-Übungen | Ćwiczenia online
     - SPEKTRUM DEUTSCH A1+
       - Kapitel 1 | Rozdział 1
-        - [Begrüßung und Verabschiedung | Pozdrowienia i pożegnania](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_gruessen.htm) » [von mir gemacht | zrobione przeze mnie](schubert/aufgaben/uebungen_a1/a1_k01_gruessen.md)
-        - [Sich vorstellen [1]](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sichvorstellen1.htm) » [von mir gemacht | zrobione przeze mnie](schubert/aufgaben/uebungen_a1/a1_k01_sichvorstellen1.md)
-        - [Sich vorstellen [2]](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sichvorstellen2.htm) » [von mir gemacht | zrobione przeze mnie](schubert/aufgaben/uebungen_a1/a1_k01_sichvorstellen2.md)
-        - [Sich vorstellen [3]](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sichvorstellen3.htm) » [von mir gemacht | zrobione przeze mnie](schubert/aufgaben/uebungen_a1/a1_k01_sichvorstellen3.md)
-        - [Personen: Wer macht was?](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_konjugation.htm) » [von mir gemacht | zrobione przeze mnie](schubert/aufgaben/uebungen_a1/a1_k01_konjugation.md)
-        - [Länder und Sprachen](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sprachen.htm) » [von mir gemacht | zrobione przeze mnie](schubert/aufgaben/uebungen_a1/a1_k01_sprachen.md)
-      - Kapitel 2
+        - [Begrüßung und Verabschiedung](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_gruessen.htm) | Pozdrowienia i pożegnania
+          - [von mir gemacht](schubert/aufgaben/uebungen_a1/a1_k01_gruessen.md) | zrobione przeze mnie
+        - [Sich vorstellen [1]](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sichvorstellen1.htm)
+          - [von mir gemacht](schubert/aufgaben/uebungen_a1/a1_k01_sichvorstellen1.md) | zrobione przeze mnie
+        - [Sich vorstellen [2]](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sichvorstellen2.htm)
+          - [von mir gemacht](schubert/aufgaben/uebungen_a1/a1_k01_sichvorstellen2.md) | zrobione przeze mnie
+        - [Sich vorstellen [3]](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sichvorstellen3.htm)
+          - [von mir gemacht](schubert/aufgaben/uebungen_a1/a1_k01_sichvorstellen3.md) | zrobione przeze mnie
+        - [Personen: Wer macht was?](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_konjugation.htm)
+          - [von mir gemacht](schubert/aufgaben/uebungen_a1/a1_k01_konjugation.md) | zrobione przeze mnie
+        - [Länder und Sprachen](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k01_sprachen.htm)
+          - [von mir gemacht](schubert/aufgaben/uebungen_a1/a1_k01_sprachen.md) | zrobione przeze mnie
+      - Kapitel 2 | Rozdział 2
+        - [Berufe und Tätigkeiten](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k02_berufe.htm)
+          - [von mir gemacht](schubert/aufgaben/uebungen_a1/a1_k02_berufe.md) | zrobione przeze mnie
+        - [Sich vorstellen](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k02_sichvorstellen.htm)
+          - [von mir gemacht](schubert/aufgaben/uebungen_a1/a1_k02_sichvorstellen.md) | zrobione przeze mnie
+        - [Welche Zahlen hören Sie?](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k02_zahlen.htm)
+          - [von mir gemacht](schubert/aufgaben/uebungen_a1/a1_k02_zahlen.md) | zrobione przeze mnie
+        - [Die liebe Familie](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_k02_familie.htm)
+          - [von mir gemacht](schubert/aufgaben/uebungen_a1/a1_k02_familie.md) | zrobione przeze mnie
     - [BEGEGNUNGEN A1+](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_uebungen_index.htm)
     - [Weitere Übungen](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_uebungen_index_z.htm)
   - Arbeitsblätter
