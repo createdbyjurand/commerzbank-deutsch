@@ -2,7 +2,7 @@
 
 [zurück zum Inhaltsverzeichnis](../README.md)
 
-## sein | być
+## sein `zajn` | być
 
 &nbsp;
 
