@@ -62,6 +62,38 @@
 - studieren
 - wohnen
 
+## Fragepronomen/Interrogativpronomen | Zaimki pytające
+
+| auf Deutsch                | auf Polnisch        | Beispiel                      |
+| -------------------------- | ------------------- | ----------------------------- |
+| warum/ weswegen/ weshalb   | (dlaczego)          | Warum machst du das?          |
+| wann                       | kiedy               | Wann beginnt das Konzert?     |
+| wo                         | gdzie               | Wo wohnst du?                 |
+| woher                      | skąd                | Woher kennst du sie?          |
+| wohin                      | dokąd               | Wohin fahren wir?             |
+| wie                        | jak                 | Wie geht es dir?              |
+| wie + przysłówek           |                     | Wie lange dauert das Konzert? |
+| wer\*                      |                     | Wer bist du?                  |
+| welcher/ welche/ welches\* | który, która, które | Welches Bier trinkst du?      |
+| was\*                      | co                  | Was machst du?                |
+| was für ein/ eine\*        | jaki/ jaka          | Was für eine Farbe ist das?   |
+| przyimek + zaimek pytający |                     | Mit wem sprichst du?          |
+| wo + przyimek              |                     | Woran denkst du?              |
+
+Do przyimków mogących łączyć się z biernikiem lub celownikiem należą:
+
+| auf Deutsch | auf Polnisch |
+| ----------- | ------------ |
+| an          | na, w, przy  |
+| auf         | na           |
+| in          | do, za, w    |
+| über        | nad          |
+| unter       | pod          |
+| vor         | przed        |
+| hinter      | za           |
+| neben       | obok         |
+| zwischen    | między       |
+
 ## Links
 
 - [Google Translate PL-DE](https://translate.google.pl/?sl=pl&tl=de&op=translate)
