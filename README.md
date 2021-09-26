@@ -4,14 +4,20 @@
 
 ## Inhaltsverzeichnis | Spis treści
 
-- [Lektion 01: Montag, 2021-09-06](2021-09-06_Lektion.md)
-  - [Hausaufgaben aus Lektion 01](2021-09-06_Hausaufgaben.md)
-- [Lektion 02: Mittwoch, 2021-09-08](2021-09-08_Lektion.md)
-  - [Hausaufgaben aus Lektion 02](2021-09-08_Hausaufgaben.md)
-- [Lektion 03: Montag, 2021-09-13](2021-09-13_Lektion.md)
-  - [Hausaufgaben aus Lektion 03](2021-09-13_Hausaufgaben.md)
-- [Lektion 04: Mittwoch, 2021-09-15](2021-09-15_Lektion.md)
-  - [Hausaufgaben aus Lektion 04](2021-09-15_Hausaufgaben.md)
+- [Lektion 01](Lektionen/Lektion-01_2021-09-06.md) &nbsp; 2021-09-06
+  - [Hausaufgaben 01](Lektionen/Lektion-01_2021-09-06_Hausaufgaben.md)
+- [Lektion 02](Lektionen/Lektion-02_2021-09-08.md) &nbsp; 2021-09-08
+  - [Hausaufgaben 02](Lektionen/Lektion-02_2021-09-08_Hausaufgaben.md)
+- [Lektion 03](Lektionen/Lektion-03_2021-09-13.md) &nbsp; 2021-09-13
+  - [Hausaufgaben 03](Lektionen/Lektion-03_2021-09-13_Hausaufgaben.md)
+- [Lektion 04](Lektionen/Lektion-04_2021-09-15.md) &nbsp; 2021-09-15
+  - [Hausaufgaben 04](Lektionen/Lektion-04_2021-09-15_Hausaufgaben.md)
+- [Lektion 05](Lektionen/Lektion-05_2021-09-20.md) &nbsp; 2021-09-15
+  - [Hausaufgaben 05](Lektionen/Lektion-05_2021-09-20_Hausaufgaben.md)
+- [Lektion 06](Lektionen/Lektion-06_2021-09-22.md) &nbsp; 2021-09-15
+  - [Hausaufgaben 06](Lektionen/Lektion-06_2021-09-22_Hausaufgaben.md)
+- [Lektion 07](Lektionen/Lektion-07_2021-09-27.md) &nbsp; 2021-09-15
+  - [Hausaufgaben 07](Lektionen/Lektion-07_2021-09-27_Hausaufgaben.md)
 
 ## SCHUBERT
 
